@@ -36,7 +36,7 @@ print(signal.find("TSLA"))    # index where TSLA starts
 print("BUY" in signal)     # True
 print("SELL" in signal)    #False
 
-parts = signal.split(".")
+parts = signal.split(":")
 print(parts)
 # ["signal', "BUY', 'TSLA', 'QTY=50', 'price=250.00']
 
