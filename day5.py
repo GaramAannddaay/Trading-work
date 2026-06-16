@@ -28,5 +28,5 @@ portfolio = {
 }
 
 for ticker, data in portfolio. items():
-    total = data["price'] * data["qty"]
-    print(f"{ticker} | {dat['side']} | qty: {data'qty']} | total: ${total:.2f}")
+    total = data["price"] * data["qty"]
+    print(f"{ticker} | {data['side']} | qty: {data['qty']} | total: ${total:.2f}")
