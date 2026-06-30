@@ -1,11 +1,11 @@
 #1 variables
 name = "Hassan" 
-age = 25
+age = 30
 price = 19.99
 print (name, age, price)
 
 #2 basic math
-a = 18
+a = 15
 b = 3
 print (a + b)
 print (a * b)
@@ -23,7 +23,7 @@ print ((2 + 3) * 4)
 
 
 #5 upadting varaibles
-balance = 1500
+balance = 1900
 balance += 500
 balance -= 200
 print (balance)
